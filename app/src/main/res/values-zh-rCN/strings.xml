@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="toppings">配料</string>
+    <string name="thank_you">谢谢！</string>
+    <string name="order_summary_name" formatted="true">姓名：<xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="name">姓名</string>
+    <string name="chocolate">巧克力</string>
+    <string name="whipped_cream">生奶油</string>
+    <string name="quantity">数量</string>
+    <string name="order">下订单</string>
+    <string name="order_summary_email_subject"><xliff:g id="name" example="Amy">%s</xliff:g> 的Just Java订单</string>
+    <string name="order_summary_whipped_cream" formatted="true">加生奶油？<xliff:g id="addWhippedCream" example="true">%s</xliff:g></string>
+    <string name="order_summary_chocolate" formatted="true">加巧克力？<xliff:g id="addChocolate" example="true">%s</xliff:g></string>
+    <string name="order_summary_price" formatted="true">总价：<xliff:g id="price" example="$10">%s</xliff:g></string>
+    <string name="order_summary_quantity" formatted="true">数量：<xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="yes">要</string>
+    <string name="no">不要</string>
+    <string name="no_more_coffee">你不能超过100个咖啡</string>
+    <string name="no_less_coffee">你不能少于1杯咖啡</string>
+</resources>
